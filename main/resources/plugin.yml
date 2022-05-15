@@ -1,0 +1,4 @@
+name: Bored
+version: '${project.version}'
+main: codes.lewi.bored.Bored
+api-version: 1.15

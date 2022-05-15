@@ -1,0 +1,5 @@
+## enter the coords of the block in the format x,y,z (NO SPACES)
+
+launchpads:
+  - '0,60,0'
+  - '20,60,20'
